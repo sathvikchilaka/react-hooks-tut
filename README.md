@@ -1,4 +1,4 @@
-# React All Hooks Tuts @RoadsideCoderYT
+# All React Hooks Tuts @RoadsideCoderYT
 
 This project has most of the react hooks and gets you on board with the ReactJS interview prep.
 
